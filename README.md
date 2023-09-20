@@ -2,7 +2,7 @@
 - 👀 I’m interested in webhooks to link wix with arduino
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on automation 
-- 📫 How to reach me email, gtecspr@gmail.com
+- 📫 How to reach me...
   
 
 <!---
